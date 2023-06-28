@@ -59,3 +59,8 @@ https://github.com/hedho/KISSmoPerl/releases/tag/v1.1.7
 ### Demo:
 
 https://paste.hax.al/
+
+
+## WARNING: This is the version which has additional pages and which runs under HAX.AL
+
+If you want to use this version then feel free !
