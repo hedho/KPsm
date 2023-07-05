@@ -161,7 +161,7 @@ __DATA__
         <a class="navbar-brand" href="/">KISSMO</a>
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="https://hax.al">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/installation">Installation and Updates</a>
@@ -234,7 +234,7 @@ __DATA__
         <a class="navbar-brand" href="/">KISSMO</a>
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="https://hax.al">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/installation">Installation and Updates</a>
@@ -301,7 +301,7 @@ __DATA__
         <a class="navbar-brand" href="/">KISSMO</a>
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="https://hax.al">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/installation">Installation and Updates</a>
@@ -367,7 +367,7 @@ __DATA__
         <a class="navbar-brand" href="/">KISSMO</a>
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="https://hax.al">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/installation">Installation and Updates</a>
@@ -433,7 +433,7 @@ __DATA__
         <a class="navbar-brand" href="/">KISSMO</a>
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="https://hax.al">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/installation">Installation and Updates</a>
@@ -500,7 +500,7 @@ __DATA__
         <a class="navbar-brand" href="/">KISSMO</a>
         <ul class="navbar-nav mr-auto">
             <li class="nav-item">
-                <a class="nav-link" href="/">Home</a>
+                <a class="nav-link" href="https://hax.al">Home</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/installation">Installation and Updates</a>
