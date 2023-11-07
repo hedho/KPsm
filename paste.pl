@@ -180,7 +180,7 @@ __DATA__
         </form>
     </div>
     <footer class="footer">
-        <p>This pastebin script has been developed by Arianit. The source code can be found at <a href="https://github.com/hedho/KISSmoPerl">GitHub</a>.</p>
+        <p>This pastebin script has been developed by Arianit. The source code can be found at <a href="https://man.hax.al/cgit/KISSmoPerl/about">HAX.AL repositories</a>.</p>
     </footer>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
@@ -586,6 +586,13 @@ __DATA__
 <h3>Conclusion</h3>
 
 <p>KISSmo Perl Pastebin is a lightweight and easy-to-use pastebin service written in Perl. It provides a simple web interface for creating, sharing, and managing plain text.</p>
+
+<br />
+<a href="https://www.buymeacoffee.com/arianit"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=arianit&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<br />
+Source link:<br />
+<br />
+<a href="https://www.buymeacoffee.com/arianit">https://www.buymeacoffee.com/arianit</a></p>
 
             <!-- Add the installation instructions here -->
             ...
